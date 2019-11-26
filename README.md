@@ -1,2 +1,2 @@
 # Spring
-SpringPractice by Vivek Gohil
+Spring Example By Vivek Gohil
